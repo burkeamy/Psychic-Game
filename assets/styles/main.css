@@ -5,3 +5,7 @@ input {
 body {
     background-color: bisque;
 }
+
+img {
+    height: 100px;
+}
